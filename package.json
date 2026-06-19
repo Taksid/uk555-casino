@@ -1,0 +1,14 @@
+{
+  "name": "uk555-casino",
+  "version": "1.0.0",
+  "description": "UK555 Casino Project",
+  "scripts": {
+    "build": "echo 'Build complete'",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
